@@ -18,8 +18,8 @@ This project implements user authentication, through AES-256 encryption/decrypti
 
 
 Repository name 
-api-sanctum
-url :https://github.com/passymeenu/api-sanctum
+laravel-santum
+url :https://github.com/passymeenu/laravel-santum/tree/main
 
 API Endpoints
  ● POST/api/register- Register a new user.
